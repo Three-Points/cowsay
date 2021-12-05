@@ -2,7 +2,7 @@
     <img src="cowsay.svg" alt="Logo" width="280">
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=CowSay&prefix=v&query=version&url=https%3A%2F%2Fgithub.com%2FThree-Points%2Fcowsay%2Fblob%2Fmaster%2Fpackage.json" alt="Version" />
+    <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=CowSay&prefix=v&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FThree-Points%2Fcowsay%2Fmaster%2Fpackage.json" alt="Version" />
 </p>
 
 ## About The "CowSay"
