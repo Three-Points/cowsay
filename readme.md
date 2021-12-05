@@ -19,12 +19,9 @@ The technologies needed to create this project are:
 
 ### Scripts
 
-|Process        |Script           |Description                              |
-|---------------|-----------------|-----------------------------------------|
-|Development    |`npm run dev`    |Serves to server on port 3000.           |
-|Testing        |`npm run test`   |Run all test (unit test or integration). |
-|Building       |`npm run build`  |Build the code base to `dist` directory. |
-|Production     |`npm run start`  |Simulate the server for production. |
+|Process        |Script           |Description                                        |
+|---------------|-----------------|---------------------------------------------------|
+|Production     |`npm run start`  |Simulate the server for production on port `8080`. |
 
 > Note. For mode Production, you can use [Docker CLI](https://www.docker.com/).
 

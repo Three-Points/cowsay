@@ -1,10 +1,11 @@
 {
   "name": "cowsay",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Minimal NodeJS app",
   "main": "src/index.js",
   "scripts": {
-    "test": "NODE_ENV=dev jest"
+    "test": "NODE_ENV=dev jest",
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Three-Points/cowsay/issues"
   },
-  "homepage": "https://github.com/Three-Points/cowsay#readme"
+  "homepage": "https://github.com/Three-Points/cowsay#readme",
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "express": "4.17.1"
+  }
 }
