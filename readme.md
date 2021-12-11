@@ -2,7 +2,7 @@
     <img src="cowsay.svg" alt="Logo" width="280">
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/dynamic/json?color=yellow&label=CowSay&prefix=v&query=version&url=https://raw.githubusercontent.com/Three-Points/cowsay/master/package.json" alt="Version" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=yellow&label=CowSay&prefix=v&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FThree-Points%2Fcowsay%2Fmaster%2Fpackage.json" alt="Version" />
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Node-v14.x-green?style=for-the-badge&logo=Node.Js" alt="Node" />
